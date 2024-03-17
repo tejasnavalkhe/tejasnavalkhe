@@ -15,22 +15,23 @@
 
 - 💬 Ask me about **Data Science, Python, Full Stack Web Development, Algo Trading, Deployment, API**
 
-- 📫 How to reach me **navalkhetejas18@gmail.com**
-
 - ⚡ My Business **TEJAS PEDAGOGICAL INSTITUTE PVT LTD**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tejasnavalkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasnavalkhe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tejasnavalkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasnavalkhe" height="30" width="40" /></a>
+<a href="https://instagram.com/tejasnavalkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejasnavalkhe" height="30" width="40" /></a>
+<a href="https://fb.com/tejasnavalkhe1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tejasnavalkhe1810" height="30" width="40" /></a>
+<a href="https://twitter.com/tejasnavalkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasnavalkhe" height="30" width="40" /></a>
+<a href="https://join.skype.com/invite/xgycceKzFUMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="tejasnavalkhe1810" height="30" width="40" /></a>
+
+
 <a href="https://stackoverflow.com/users/13733233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13733233" height="30" width="40" /></a>
 <a href="https://kaggle.com/tejasnavalkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tejasnavalkhe" height="30" width="40" /></a>
-<a href="https://fb.com/tejasnavalkhe1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tejasnavalkhe1810" height="30" width="40" /></a>
-<a href="https://instagram.com/tejasnavalkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejasnavalkhe" height="30" width="40" /></a>
 <a href="https://medium.com/@tejasnavalkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tejasnavalkhe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tejasnavalkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tejasnavalkhe" height="30" width="40" /></a>
 </p>

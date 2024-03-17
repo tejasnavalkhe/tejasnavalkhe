@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Satish Navalkhe</h1>
-<h3 align="center">MSc in Data Science (AI Specialisation) Candidate at Newcastle University | Computer Science Engineer | Algo Trading | Full Stack Python Developer | API | Deployment | Investor</h3>
+<h3 align="center">MSc in Data Science (AI Specialisation) Candidate at Newcastle University | Computer Science Engineer | Algo Trading | Full Stack Python Developer | API | Deployment | Investor | Entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasnavalkhe&label=Profile%20views&color=0e75b6&style=flat" alt="tejasnavalkhe" /> </p>
 

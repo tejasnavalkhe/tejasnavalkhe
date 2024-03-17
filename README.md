@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **navalkhetejas18@gmail.com**
 
+- ⚡ My Business **TEJAS PEDAGOGICAL INSTITUTE PVT LTD**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

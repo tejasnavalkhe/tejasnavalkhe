@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Finance, Stock Market, Data Science, ML, DL, AI, Web Development, Deployment**
+- 👯 I’m looking to collaborate on **Finance, Stock Market, Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Web Development, Deployment**
 
 - 💬 Ask me about **Data Science, Python, Full Stack Web Development, Algo Trading, Deployment, API**
 
@@ -19,7 +19,7 @@
 
 - ⚡ My Business **TEJAS PEDAGOGICAL INSTITUTE PVT LTD**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

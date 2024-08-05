@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://instagram.com/tejasnavalkhe" target="blank"><img src="https://img.shields.io/twitter/follow/tejasnavalkhe?logo=instagram&style=for-the-badge" alt="tejasnavalkhe" /></a> </p>
 
-- 🔭 I’m currently working on **Dissertation Project**
+- 🔭 I’m currently working on **Dissertation Project** for **Co Wheels Car Club** - **Title: Optimising Car Sharing Profitability with a Regional Pricing Strategy**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **Finance, Stock Market, Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Web Development, Deployment**
 
-- 💬 Ask me about **Data Science, Python, Full Stack Web Development, Algo Trading, Deployment, API**
+- 💬 Ask me about **Data Science, Python, Full Stack Web Development, Algorithmic Trading, Deployment, API**
 
-- ⚡ My Business **TEJAS PEDAGOGICAL INSTITUTE PVT LTD**
+- ⚡ My Business **TEJAS PEDAGOGICAL INSTITUTE PVT LTD** - **TEJLearning**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->

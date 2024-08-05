@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://instagram.com/tejasnavalkhe" target="blank"><img src="https://img.shields.io/twitter/follow/tejasnavalkhe?logo=instagram&style=for-the-badge" alt="tejasnavalkhe" /></a> </p>
 
-- 🔭 I’m currently working on **Dissertation Project** for **Co Wheels Car Club** - **Title: Optimising Car Sharing Profitability with a Regional Pricing Strategy**
+- 🔭 I’m currently working on **Dissertation Project - Dynamic Pricing** for **Co Wheels Car Club** - **Title: Optimising Car Sharing Profitability with a Regional Pricing Strategy**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & Artificial Intelligence**
 

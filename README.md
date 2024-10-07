@@ -27,7 +27,6 @@
 <a href="https://instagram.com/tejasnavalkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejasnavalkhe" height="30" width="40" /></a>
 <a href="https://fb.com/tejasnavalkhe1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tejasnavalkhe1810" height="30" width="40" /></a>
 <a href="https://twitter.com/tejasnavalkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasnavalkhe" height="30" width="40" /></a>
-<a href="https://join.skype.com/invite/xgycceKzFUMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="tejasnavalkhe1810" height="30" width="40" /></a>
 
 
 <a href="https://stackoverflow.com/users/13733233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13733233" height="30" width="40" /></a>

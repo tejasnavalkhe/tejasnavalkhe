@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Data Engineering, Machine Learning, Deep Learning, Python, Full Stack Web Development, Algorithmic Trading, Deployment, API**
 
-- ⚡ My Business **TEJAS PEDAGOGICAL INSTITUTE PVT LTD** - **TEJLearning**
-
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

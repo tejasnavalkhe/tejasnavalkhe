@@ -1,5 +1,5 @@
 from flask import Blueprint, flash, request, render_template
-from tejasnavalkhe.main.utils import new_subscription, is_valid_email
+# from tejasnavalkhe.main.utils import new_subscription, is_valid_email
 
 main = Blueprint('main', __name__)
 

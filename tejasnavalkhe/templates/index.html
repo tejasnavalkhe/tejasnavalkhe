@@ -54,13 +54,46 @@
     <!--===============================================================================================-->
   </head>
   <body>
+    <div>
+      {% with messages = get_flashed_messages(with_categories=true) %} {% if
+      messages %} {% for cat, msg in messages %}
+      <div
+        role="alert"
+        aria-live="assertive"
+        aria-atomic="true"
+        class="toast fixed-top m-3 ms-auto"
+        data-bs-autohide="true"
+      >
+        <div class="toast-header">
+          <span>Activity</span>
+          <strong class="me-auto"></strong>
+          <small id="activity_time"></small>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="toast"
+            aria-label="Close"
+          ></button>
+        </div>
+        {% if cat == 'danger' %}
+        <div class="toast-body" style="background-color: red; color: white">
+          {{ msg }}
+        </div>
+        {% elif cat == 'success' %}
+        <div class="toast-body" style="background-color: #28a745; color: white">
+          {{ msg }}
+        </div>
+        {% endif %}
+      </div>
+      {% endfor %} {% endif %} {% endwith %}
+    </div>
     <div
       class="bg-img1 size1 overlay1 p-b-35 p-l-15 p-r-15"
       style="background-image: url('images/bg01.jpg')"
     >
       <div class="flex-col-c p-t-160 p-b-215 respon1">
         <div class="wrappic1">
-          <a href="#">
+          <a href="{{ url_for('main.index') }}">
             <!-- <img
               src="{{ url_for('static', filename='images/icons/logo.png') }}"
               alt="IMG"
@@ -69,9 +102,32 @@
           </a>
         </div>
 
-        <h3 class="l1-txt1 txt-center p-t-30 p-b-100">Launching Soon</h3>
+        <h3 class="l1-txt1 txt-center p-t-30 p-b-100">Coming Soon</h3>
 
         <div class="cd100"></div>
+
+        <!-- <div>
+          <form
+            class="form-inline"
+            action="{{ url_for('main.index') }}"
+            method="POST"
+          >
+            <div class="form-group mx-sm-3 mb-2">
+              <label for="inputPassword2" class="sr-only">Email</label>
+              <input
+                type="email"
+                style="width: 300px; padding-left: 10px"
+                class="form-control"
+                name="email"
+                id="staticEmail2"
+                placeholder="email@example.com"
+              />
+            </div>
+            <button type="submit" class="btn btn-primary mb-2">
+              Notify Me
+            </button>
+          </form>
+        </div> -->
       </div>
 
       <!--  -->
@@ -106,6 +162,14 @@
           class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5"
         >
           <i class="fa fa-instagram"></i>
+        </a>
+
+        <a
+          href="https://linktr.ee/tejasnavalkhe"
+          target="_blank"
+          class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5"
+        >
+          <i class="fa fa-phone"></i>
         </a>
       </div>
     </div>
@@ -147,5 +211,32 @@
     </script>
     <!--===============================================================================================-->
     <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <!-- Toast Script -->
+    <script>
+      window.onload = (event) => {
+        let myAlert = document.querySelector('.toast');
+        let bsAlert = new bootstrap.Toast(myAlert);
+
+        setTimeout(function () {
+          bsAlert.show();
+        }, 100);
+        let date_time = new Date();
+        let hr = date_time.getHours();
+        let min = date_time.getMinutes();
+        let sec = date_time.getSeconds();
+        if (sec.toString().length == 1) {
+          sec = '0' + sec.toString();
+        }
+        if (min.toString().length == 1) {
+          min = '0' + min.toString();
+        }
+        if (hr.toString().length == 1) {
+          hr = '0' + hr.toString();
+        }
+        let activity_time = (document.getElementById(
+          'activity_time'
+        ).innerHTML = hr + ':' + min + ':' + sec);
+      };
+    </script>
   </body>
 </html>

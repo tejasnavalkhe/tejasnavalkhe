@@ -33,8 +33,8 @@ const Footer2 = () => {
                 <div className="row gx-30">
                     <div className="col-lg-3 col-md-6">
                         <div className="social-item">
-                            <h5 className="title"><a href="https://github.com/tejasnavalkhe">Behance</a></h5>
-                            <a href="https://github.com/tejasnavalkhe" target="_blank">
+                            <h5 className="title"><a href="https://bit.ly/tsngithub">Behance</a></h5>
+                            <a href="https://bit.ly/tsngithub" target="_blank">
                                 <span className="link-effect">
                                 <span className="effect-1"><i className="bi bi-github"></i></span>
                                 <span className="effect-1"><i className="bi bi-github"></i></span>

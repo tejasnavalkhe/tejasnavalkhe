@@ -28,8 +28,8 @@ const Project3 = () => {
             id: 4,
             addclass:'col-lg-6',
             img:'/assets/images/portfolio/portfolio_4_0.png',
-            title:'Prediction using Supervised Machine Learning (ML) with Python Implementation - Linear Regression',
-            category:'Article'
+            title:'Design and Development of Smart Virtual Assistant Using Latest Tools and Technologies',
+            category:'Research Paper'
         }
     ];   
 

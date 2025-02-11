@@ -104,33 +104,35 @@ const ProjectDetails = () => {
 
         {
         id: 4,
-        title: 'Prediction using Supervised Machine Learning (ML) with Python Implementation - Linear Regression',
-        subtitle: 'Article',
+        title: 'Design and Development of Smart Virtual Assistant Using Latest Tools and Technologies',
+        subtitle: 'Research Paper',
         client_country: 'Maharashtra, India',
-        published: '30 December, 2023',
-        technology: 'Statistical Method, Linear Regression, Regression Line Fitting',
-        categories: 'Data Science',
-        href: 'https://bit.ly/4hO9lpZ',
+        published: '28 February, 2022',
+        technology: 'Google Speech API, SMS, NSE Data',
+        categories: 'Speech Recognition',
+        href: 'https://bit.ly/3yyazEB',
         image: '/assets/images/portfolio/portfolio_4_0.png',
-        overview: "Linear regression is a fundamental statistical method used to model the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data. The simplest form involves two variables: a dependent variable (y) and an independent variable (x), with the goal of finding the best-fit line that minimizes the sum of squared differences between observed and predicted values. The linear regression equation is represented as `y = mx + b`, where m is the slope and b is the y-intercept. In multiple linear regression, the equation extends to include more independent variables. Linear regression is widely used for prediction tasks, assuming a linear relationship between variables. This introduction also provides a step-by-step Python implementation of linear regression, from data loading and preprocessing to model training, evaluation, and visualization, using a dataset that predicts student scores based on study hours.",
-        challenges: 'Writing about linear regression, especially for beginners, presents several challenges. The author must ensure that the explanation is clear and accessible, avoiding overly complex statistical jargon while still conveying the mathematical foundations of the method. Structuring the content to include both theoretical explanations and practical implementation (e.g., Python code) requires careful planning to maintain a balance between theory and application. Additionally, the author must ensure that the code examples are accurate, well-commented, and easy to follow, as readers may have varying levels of programming experience. Another challenge is providing sufficient context for the dataset used in the example, ensuring that readers understand how the method applies to real-world scenarios. Finally, the author must address potential pitfalls, such as the assumption of linearity, and guide readers on when linear regression is appropriate.',
+        overview: "“There is always a requirement of a skilled asset who can organize your chaos” In today's fast developing world, everyone wants to save time. They know that time is money and they are always looking for ways to save time so they can also make more money. Having a reliable virtual assistant will save time and generate more revenue in a multitude of ways. It allows them to offer more services as digital assistants can take over the more routine tasks. Because digital assistants do the more routine tasks. Virtual Assistant will make human-to-machine interaction as smooth as possible. All you need is a good internet connection and your smart Assistant will do everything for you at an instance. The human brain has more power than computers but the human body drowns and makes mistakes",
+        challenges: 'The development of a smart virtual assistant presents several challenges, particularly in ensuring accurate voice recognition, especially for users with distinct accents such as Indian English. Existing virtual assistants often struggle with understanding non-standard pronunciations, which limits their usability for a broader audience. Additionally, the system must handle complex task dependencies and optimise plans based on user preferences, priorities, and active tasks. Ensuring the virtual assistant can provide accurate and relevant answers requires rigorous optimisation and continuous quality control to avoid learning undesired behaviors. Furthermore, the system must be efficient, handling multiple concurrent users without exceeding performance thresholds, and maintain security to protect user confidentiality. Finally, the virtual assistant must be scalable and maintainable, allowing for the addition of new functionalities while remaining consistent in its interactions with users.',
         challenges_list: [
-            'Explaining complex statistical concepts in a simple and accessible manner.',
-            'Balancing theoretical explanations with practical implementation (e.g., Python code).',
-            'Ensuring code examples are accurate, well-commented, and easy to follow for readers with varying programming skills.',
-            'Providing sufficient context for the dataset used in the example to make the application relevant.',
-            'Addressing potential pitfalls, such as the assumption of linearity, and guiding readers on when to use linear regression.'
+            'Accurate Voice Recognition: Difficulty in understanding non-standard accents, such as Indian English.',
+            'Complex Task Dependencies: Handling tasks with multiple sub-tasks and optimising plans based on user preferences and priorities.',
+            'Contextual Understanding: Ensuring the virtual assistant understands the intent behind user queries and provides relevant answers.',
+            'Performance Efficiency: The system must handle multiple concurrent users without exceeding performance thresholds (e.g., response time under 20 seconds).',
+            'Security and Confidentiality: Protecting user data and ensuring secure access control.',
+            'Scalability and Maintainability: The system should be easy to scale and maintain, allowing for the addition of new functionalities.',
+            'Quality Control: Continuous optimisation is required to prevent the virtual assistant from learning undesired behaviors.'
         ],
         overview_image: '/assets/images/portfolio/portfolio_4_1.png',
-        results: "The step-by-step Python implementation of linear regression successfully demonstrates how to predict student scores based on study hours. The model achieves a strong fit, as evidenced by the low Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE), as well as a high R-squared (R-2) value, indicating that the model explains a significant portion of the variance in the data. The visualisation of the regression line and the comparison between actual and predicted scores further validate the model's accuracy. The example also shows how to use the trained model to make predictions for new data, such as predicting the score for a student who studies 9.25 hours per day. Overall, the implementation provides a clear and practical guide to applying linear regression in a real-world scenario.",
+        results: "The implementation of the smart virtual assistant demonstrated its ability to perform a variety of tasks efficiently, including Google searches, Wikipedia queries, playing songs, sending SMS, taking screenshots, monitoring CPU usage, and providing live stock prices. The system was tested for functionality, usability, security, and stability, and it successfully met the required criteria. The virtual assistant responded quickly to voice commands, providing accurate and relevant answers to user queries. It also handled multiple tasks seamlessly, offering a conversational interaction that made it user-friendly. The system's stability was confirmed as it consistently delivered bounded outputs for specific inputs. Overall, the virtual assistant proved to be a flexible and useful tool for daily tasks, with potential for further enhancements in the future.",
         results_list: [
-            'Successful Model Training: The linear regression model is trained using the dataset, with the best-fit line determined by minimizing the sum of squared errors.',
-            'Accurate Predictions: The model achieves low error metrics, including MAE, MSE, and RMSE, indicating high predictive accuracy.',
-            'High R-squared Value: The R-2 value demonstrates that the model explains a significant portion of the variance in the dependent variable (student scores).',
-            "Visualisation of Results: The regression line and scatter plot provide a clear visual representation of the relationship between study hours and scores, as well as the model's fit.",
-            "Comparison of Actual vs. Predicted Scores: A bar graph compares actual and predicted scores, showing the model's effectiveness in making accurate predictions.",
-            "Practical Application: The model is used to predict the score for a student studying 9.25 hours per day, demonstrating its real-world applicability.",
-            "Step-by-Step Guidance: The implementation provides a comprehensive guide, from data loading and preprocessing to model evaluation, making it accessible for beginners."
+            "Functionality: The system successfully performed tasks such as Google searches, Wikipedia queries, playing songs, sending SMS, taking screenshots, and monitoring CPU usage.",
+            "Usability: The virtual assistant provided a conversational interaction, making it user-friendly and easy to use.",
+            "Security: The system ensured data confidentiality and was secure from remote access risks.",
+            "Stability: The system consistently delivered bounded outputs for specific inputs, confirming its stability.",
+            "Performance: The virtual assistant responded quickly to voice commands, with response times within acceptable limits.",
+            "Accuracy: The system provided accurate and relevant answers to user queries.",
+            "Multitasking: The assistant handled multiple tasks seamlessly, allowing users to give continuous instructions until they chose to quit."
         ],
         result_image: '/assets/images/portfolio/portfolio_4_2.png',
         }
@@ -219,8 +221,8 @@ const ProjectDetails = () => {
                                     <li className="btn-wrap mt--20 sm-mt-0">
                                         <a className="circle-btn tp-hover-btn btn" href={`${project.href}`} target="_blank">
                                             <span className="link-effect">
-                                                <span className="effect-1">Live Site</span>
-                                                <span className="effect-1">Live Site</span>
+                                                <span className="effect-1">Live</span>
+                                                <span className="effect-1">Live</span>
                                             </span>
                                             <img src="/assets/images/icons/arrow-left-top.svg" alt="" />
                                             <i className="btn-circle-dot"></i>

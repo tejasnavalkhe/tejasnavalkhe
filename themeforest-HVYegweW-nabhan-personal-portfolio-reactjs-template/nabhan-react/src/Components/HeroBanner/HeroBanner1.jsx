@@ -24,15 +24,15 @@ const HeroBanner1 = ({number,email,expnum,expcontent,title1,title2,title3,title4
                     <div className="hero-social">
                         <div className="parallax-wrap">
                             <div className="parallax-element">
-                                <a className="facebook" href="https://github.com/tejasnavalkhe" target="_blank">
+                                <a className="facebook" href="https://bit.ly/tsngithub" target="_blank">
                                 <i className="bi bi-github"></i>
                                 </a>
                             </div>
                         </div>
                         <div className="parallax-wrap">
                             <div className="parallax-element">
-                                <a className="twitter" href="https://x.com/tejasnavalkhe" target="_blank">
-                                <i className="bi bi-twitter-x"></i>
+                                <a className="telephone" href="https://bit.ly/tsntopmate" target="_blank">
+                                <i className="bi bi-telephone"></i>
                                 </a>
                             </div>
                         </div>
@@ -47,6 +47,13 @@ const HeroBanner1 = ({number,email,expnum,expcontent,title1,title2,title3,title4
                             <div className="parallax-element">
                                 <a className="dribbble" href="https://instagram.com/tejasnavalkhe/" target="_blank">
                                 <i className="bi bi-instagram"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div className="parallax-wrap">
+                            <div className="parallax-element">
+                                <a className="twitter" href="https://x.com/tejasnavalkhe" target="_blank">
+                                <i className="bi bi-twitter-x"></i>
                                 </a>
                             </div>
                         </div>

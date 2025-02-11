@@ -14,7 +14,7 @@ const Home = () => {
             <HeroBanner1
                 number="+91 7264800601"
                 email="contact@tejasnavalkhe.com"
-                expnum="5"
+                expnum="3"
                 expcontent="YEARS OF <br> EXPERIENCE"
                 title1="Hi there!"
                 title2="I'm Tejas Satish Navalkhe"

@@ -8,20 +8,20 @@ const About1 = () => {
 
     const AboutContent = [
         {title:'Born In', text:'Maharashtra, India'},
-        {title:'Experience', text:'5+ Years Experience'},
+        {title:'Experience', text:'3+ Years Experience'},
         {title:'Date of Birth', text:'18 October, 2001'},
         {title:'Language', text:'English, Hindi, Marathi'}
       ];
 
       const experienceInfo = {
-        number:'5',
+        number:'3',
         content:'Years of Experiences AI/ML, Algorithmic Trading Systems, NLP, Deep Learning, Generative AI, Software Engineering'
       }
 
       const experiencetContent = [
-        {name:'Finvestox.com — Tamil Nadu, India', position:'Quantitative Developer (Big Data - AI)', year:'Sep, 2022 - Present'},
-        {name:'Co Wheels Car Club — England, United Kingdom', position:'Data Scientist', year:'May, 2024 - Sep, 2024'},
-        {name:'TEJEarning — Maharashtra, India', position:'Software Engineer', year:'Mar, 2022 - Sep, 2023'}
+        {name:'Co Wheels Car Club — England, UK', position:'Data Scientist', year:'May, 2024 - Nov, 2024'},
+        {name:'Finvestox.com — Tamil Nadu, India', position:'Quantitative Developer (Big Data - AI)', year:'Feb, 2023 - Apr, 2024'},
+        {name:'TEJEarning — Maharashtra, India ', position:'Software Engineer', year:'Jul, 2021 - Feb, 2023'}
       ];      
 
     return (

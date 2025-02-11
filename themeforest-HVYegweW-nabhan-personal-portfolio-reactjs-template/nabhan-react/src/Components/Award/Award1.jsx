@@ -2,7 +2,7 @@
 const Award1 = () => {
 
     const awardContent = [
-        {title:'NCL+ Award', tag:'Employability Skills', subject:'Newcastle University', year:'2024'},
+        {title:'NCL+ Award', tag:'Entrepreneur', subject:'Newcastle University, United Kigdom', year:'2024'},
         {title:'Best Student Of The Batch (2019-2023)', tag:'Best in Computer Science Engineering', subject:'Prestige Institute of Engineering Management & Research', year:'2023'},
       ];    
 

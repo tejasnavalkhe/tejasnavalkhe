@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://instagram.com/tejasnavalkhe" target="blank"><img src="https://img.shields.io/twitter/follow/tejasnavalkhe?logo=instagram&style=for-the-badge" alt="tejasnavalkhe" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engineering, Machine Learning and Deep Learning**
+- 🌱 I’m into **Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing and Data Engineering**
 
 - 👯 I want to collaborate on **Finance / FinTech, Healthcare, Education / EdTech, Retail / E-commerce, Automotive / Transportation** Industries for Machine Learning, Deep Learning, Data Engineering and Web Development fields.
 
-- 💬 Ask me about **Data Engineering, Machine Learning, Deep Learning, Python, Full Stack Web Development, Algorithmic Trading, Deployment, API**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Python, Full Stack Web Development, Algorithmic Trading, Deployment, API, Data Engineering**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->

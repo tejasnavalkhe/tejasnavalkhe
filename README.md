@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://instagram.com/tejasnavalkhe" target="blank"><img src="https://img.shields.io/twitter/follow/tejasnavalkhe?logo=instagram&style=for-the-badge" alt="tejasnavalkhe" /></a> </p>
 
-- 🔭 I’m working on the educational website of the **TEJAS PEDAGOGICAL INSTITUTE PRIVATE LIMITED**.
-
 - 🌱 I’m currently learning **Data Engineering, Machine Learning and Deep Learning**
 
 - 👯 I want to collaborate on **Finance / FinTech, Healthcare, Education / EdTech, Retail / E-commerce, Automotive / Transportation** Industries for Machine Learning, Deep Learning, Data Engineering and Web Development fields.

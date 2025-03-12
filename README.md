@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasnavalkhe&label=Profile%20views&color=0e75b6&style=flat" alt="tejasnavalkhe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasnavalkhe" alt="tejasnavalkhe" /></a> </p>
-
 <p align="left"> <a href="https://instagram.com/tejasnavalkhe" target="blank"><img src="https://img.shields.io/twitter/follow/tejasnavalkhe?logo=instagram&style=for-the-badge" alt="tejasnavalkhe" /></a> </p>
 
 - 🌱 I’m into **Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing and Data Engineering**

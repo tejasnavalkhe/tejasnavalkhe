@@ -1,259 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Tejas Satish Navalkhe</title>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!--===============================================================================================-->
-    <link
-      rel="icon"
-      type="image/png"
-      href="{{ url_for('static', filename='images/icons/favicon.ico') }}"
+    <link rel="icon" type="image/svg+xml" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="keywords"
+      content="AI Engineer, Machine Learning, Quantitative Developer, Deep Learning, Natural Language Processing (NLP), Generative AI, Reinforcement Learning, Big Data, PyTorch, TensorFlow, Hugging Face, Algorithmic Trading, Dynamic Pricing, MLOps, Data Science, AWS, Apache Spark, Kafka, Hadoop, Python, Flask, Selenium, Databricks, LSTM Networks, Real-time Data Pipelines, Automated ETL, Low-latency Trading, Fintech, Edtech, Transportation, Mobility, Cloud Computing, Docker, Kubernetes, MLflow, Kubeflow, Airflow, Data Visualization, Sentiment Analysis, Image Classification, Face Recognition, AI-Driven Solutions, Data Engineering, Predictive Modeling, Hyperparameter Tuning, Automated Testing, Web Development, RESTful APIs, Data Lakes, Time Series Forecasting, Scalable AI Systems, Tejas, Tejas Satish Navalkhe, Tejas Satish Navlakhe, Tejas Navlakhe, Tejas Satish Navalakhe, Tejas Navalakhe, Navalakhe, Navlakhe, Nawalakhe."
     />
-    <!--===============================================================================================-->
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css') }}"
+    <meta name="author" content="Tejas Satish Navalkhe" />
+    <meta
+      name="description"
+      content="Tejas Navalkhe is an accomplished AI Engineer with 3+ years of experience in designing and deploying advanced AI/ML solutions across industries such as fintech, edtech, transportation, and mobility. Specializing in deep learning, NLP, reinforcement learning, and generative AI, Tejas has a strong track record of building scalable AI systems using cutting-edge frameworks like PyTorch, TensorFlow, and Hugging Face. His expertise spans algorithmic trading systems, dynamic pricing models, and real-time data pipelines, enabling businesses to make data-driven decisions and improve system performance.
+
+With hands-on experience in big data technologies (Apache Spark, Kafka, Hadoop) and MLOps tools (Docker, Kubernetes, MLflow, Kubeflow), Tejas has successfully delivered solutions that optimize low-latency trading algorithms, automated ETL pipelines, and predictive modeling. He is passionate about solving complex problems and leveraging AI to drive innovation and business growth.
+
+Tejas holds a Master's in Data Science with a specialization in Artificial Intelligence from Newcastle University and has worked on diverse projects, including dynamic pricing models, sentiment analysis, and AI-driven face recognition systems. His technical skills include Python, AWS, Databricks, and SQL, and he is proficient in data visualization tools like Plotly and Power BI.
+
+Explore Tejas's portfolio to learn more about his AI-driven solutions, certifications, and contributions to the field of artificial intelligence and data science. Whether you're looking for expertise in algorithmic trading, real-time data processing, or scalable AI systems, Tejas brings a wealth of knowledge and innovation to every project."
     />
-    <!--===============================================================================================-->
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
-    />
-    <!--===============================================================================================-->
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ url_for('static', filename='fonts/font-awesome-4.7.0/css/font-awesome.min.css') }}"
-    />
-    <!--===============================================================================================-->
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ url_for('static', filename='vendor/animate/animate.css') }}"
-    />
-    <!--===============================================================================================-->
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ url_for('static', filename='vendor/select2/select2.min.css') }}"
-    />
-    <!--===============================================================================================-->
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ url_for('static', filename='vendor/countdowntime/flipclock.css') }}"
-    />
-    <!--===============================================================================================-->
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ url_for('static', filename='css/util.css') }}"
-    />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ url_for('static', filename='css/main.css') }}"
-    />
-    <!--===============================================================================================-->
+    <title>
+      Tejas Satish Navalkhe - AI Engineer | Machine Learning | Big Data | NLP |
+      Generative AI | Quantitative Developer
+    </title>
+    <script type="module" crossorigin src="/assets/index-C3DIUxy-.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DiKaTu_U.css">
   </head>
   <body>
-    <div>
-      {% with messages = get_flashed_messages(with_categories=true) %} {% if
-      messages %} {% for cat, msg in messages %}
-      <div
-        role="alert"
-        aria-live="assertive"
-        aria-atomic="true"
-        class="toast fixed-top m-3 ms-auto"
-        data-bs-autohide="true"
-      >
-        <div class="toast-header">
-          <span>Activity</span>
-          <strong class="me-auto"></strong>
-          <small id="activity_time"></small>
-          <button
-            type="button"
-            class="btn-close"
-            data-bs-dismiss="toast"
-            aria-label="Close"
-          ></button>
-        </div>
-        {% if cat == 'danger' %}
-        <div class="toast-body" style="background-color: red; color: white">
-          {{ msg }}
-        </div>
-        {% elif cat == 'success' %}
-        <div class="toast-body" style="background-color: #28a745; color: white">
-          {{ msg }}
-        </div>
-        {% endif %}
-      </div>
-      {% endfor %} {% endif %} {% endwith %}
-    </div>
-    <div
-      class="bg-img1 size1 overlay1 p-b-35 p-l-15 p-r-15"
-      style="background-image: url('images/bg01.jpg')"
-    >
-      <div class="flex-col-c p-t-160 p-b-215 respon1">
-        <div class="wrappic1">
-          <a href="{{ url_for('main.index') }}" style="text-decoration: none">
-            <!-- <img
-              src="{{ url_for('static', filename='images/icons/logo.png') }}"
-              alt="IMG"
-            /> -->
-            <h1 style="color: white">Tejas Satish Navalkhe</h1>
-          </a>
-        </div>
-
-        <h3 class="l1-txt1 txt-center p-t-30 p-b-100">Coming Soon</h3>
-
-        <div class="cd100"></div>
-
-        <div>
-          <form
-            class="form-inline"
-            action="{{ url_for('main.index') }}"
-            method="POST"
-          >
-            <div class="form-group mx-sm-3 mb-2">
-              <label for="inputPassword2" class="sr-only">Email</label>
-              <input
-                type="email"
-                style="width: 300px; padding-left: 10px"
-                class="form-control"
-                name="email"
-                id="staticEmail2"
-                placeholder="email@example.com"
-              />
-            </div>
-            <button type="submit" class="btn btn-primary mb-2">
-              Notify Me
-            </button>
-          </form>
-        </div>
-      </div>
-
-      <div class="flex-w flex-c-m p-b-35">
-        <a
-          href="https://www.facebook.com/tejasnavalkhe1810/"
-          target="_blank"
-          class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5"
-        >
-          <i class="fa fa-facebook"></i>
-        </a>
-
-        <a
-          href="https://x.com/tejasnavalkhe/"
-          target="_blank"
-          class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5"
-        >
-          <i class="fa fa-twitter"></i>
-        </a>
-
-        <a
-          href="https://www.linkedin.com/in/tejasnavalkhe/"
-          target="_blank"
-          class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5"
-        >
-          <i class="fa fa-linkedin-square"></i>
-        </a>
-
-        <a
-          href="https://instagram.com/tejasnavalkhe/"
-          target="_blank"
-          class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5"
-        >
-          <i class="fa fa-instagram"></i>
-        </a>
-
-        <a
-          href="https://linktr.ee/tejasnavalkhe"
-          target="_blank"
-          class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5"
-        >
-          <i class="fa fa-phone"></i>
-        </a>
-      </div>
-    </div>
-
-    <!--===============================================================================================-->
-    <script src="{{ url_for('static', filename='vendor/jquery/jquery-3.2.1.min.js') }}"></script>
-    <!--===============================================================================================-->
-    <script src="{{ url_for('static', filename='vendor/bootstrap/js/popper.js') }}"></script>
-    <script src="{{ url_for('static', filename='vendor/bootstrap/js/bootstrap.min.js') }}"></script>
-    <!--===============================================================================================-->
-    <script src="{{ url_for('static', filename='vendor/select2/select2.min.js') }}"></script>
-    <!--===============================================================================================-->
-    <script src="{{ url_for('static', filename='vendor/countdowntime/flipclock.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='vendor/countdowntime/moment.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='vendor/countdowntime/moment-timezone.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='vendor/countdowntime/moment-timezone-with-data.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='vendor/countdowntime/countdowntime.js') }}"></script>
-    <script>
-      $('.cd100').countdown100({
-        /*Set Endtime here*/
-        /*Endtime must be > current time*/
-        endtimeYear: 2025,
-        endtimeMonth: 01,
-        endtimeDate: 31,
-        endtimeHours: 0,
-        endtimeMinutes: 0,
-        endtimeSeconds: 0,
-        timeZone: 'Europe/London',
-        // ex:  timeZone: "Europe/London"
-        //go to " http://momentjs.com/timezone/ " to get timezone
-      });
-    </script>
-    <!--===============================================================================================-->
-    <script src="{{ url_for('static', filename='vendor/tilt/tilt.jquery.min.js') }}"></script>
-    <script>
-      $('.js-tilt').tilt({
-        scale: 1.1,
-      });
-    </script>
-    <!--===============================================================================================-->
-    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
-
-    <script
-      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-      integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
-      integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
-      crossorigin="anonymous"
-    ></script>
-
-    <!-- Toast Script -->
-    <script>
-      window.onload = (event) => {
-        let myAlert = document.querySelector('.toast');
-        let bsAlert = new bootstrap.Toast(myAlert);
-
-        setTimeout(function () {
-          bsAlert.show();
-        }, 100);
-        let date_time = new Date();
-        let hr = date_time.getHours();
-        let min = date_time.getMinutes();
-        let sec = date_time.getSeconds();
-        if (sec.toString().length == 1) {
-          sec = '0' + sec.toString();
-        }
-        if (min.toString().length == 1) {
-          min = '0' + min.toString();
-        }
-        if (hr.toString().length == 1) {
-          hr = '0' + hr.toString();
-        }
-        let activity_time = (document.getElementById(
-          'activity_time'
-        ).innerHTML = hr + ':' + min + ':' + sec);
-      };
-    </script>
+    <div id="root"></div>
   </body>
 </html>

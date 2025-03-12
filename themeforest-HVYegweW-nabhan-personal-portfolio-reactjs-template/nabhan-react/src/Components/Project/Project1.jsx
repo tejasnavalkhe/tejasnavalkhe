@@ -5,7 +5,7 @@ const Project1 = () => {
     const projectContent = [
         {img:'/assets/images/portfolio/portfolio_1_0.png', subtitle:'Algorithmic Trading', title:'Finvestox Capital', id: '1'},
         {img:'/assets/images/portfolio/portfolio_2_0.png', subtitle:'Artificial Intelligence', title:'Co Wheels Car Club - Dynamic Pricing', id: '2'},
-        {img:'/assets/images/portfolio/portfolio_3_0.png', subtitle:'Book', title:'MATHABILITY LEVEL 1: A MATHEMATICS FOUNDATION COURSE', id: '3'},
+        // {img:'/assets/images/portfolio/portfolio_3_0.png', subtitle:'Book', title:'MATHABILITY LEVEL 1: A MATHEMATICS FOUNDATION COURSE', id: '3'},
         {img:'/assets/images/portfolio/portfolio_4_0.png', subtitle:'Research Paper', title:'Design and Development of Smart Virtual Assistant Using Latest Tools and Technologies', id: '4'}
       ];   
 

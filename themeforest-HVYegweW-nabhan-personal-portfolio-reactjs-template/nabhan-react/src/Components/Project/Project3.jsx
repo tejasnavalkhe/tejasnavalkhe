@@ -17,13 +17,13 @@ const Project3 = () => {
             title:'Co Wheels Car Club - Dynamic Pricing',
             category:'Artificial Intelligence'
           },
-          {
-            id: 3,
-            addclass:'col-lg-6',
-            img:'/assets/images/portfolio/portfolio_3_0.png',
-            title:'MATHABILITY LEVEL 1: A MATHEMATICS FOUNDATION COURSE',
-            category:'Book'
-        },
+        //   {
+        //     id: 3,
+        //     addclass:'col-lg-6',
+        //     img:'/assets/images/portfolio/portfolio_3_0.png',
+        //     title:'MATHABILITY LEVEL 1: A MATHEMATICS FOUNDATION COURSE',
+        //     category:'Book'
+        // },
         {
             id: 4,
             addclass:'col-lg-6',

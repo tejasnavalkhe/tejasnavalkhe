@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 const Experience = () => {
 
     const experiencetContent = [
-        {name:'Co Wheels Car Club — England, UK', position:'Data Scientist', year:'May, 2024 - Nov, 2024'},
-        {name:'Finvestox.com — Tamil Nadu, India', position:'Quantitative Developer (Big Data - AI)', year:'Feb, 2023 - Apr, 2024'},
-        {name:'TEJEarning — Maharashtra, India ', position:'Software Engineer', year:'Jul, 2021 - Feb, 2023'}
+        {name:'TEJLearning — Jalgaon, India', position:'Artificial Intelligence Engineer', year:'Sep, 2024 - Present'},
+        {name:'Co Wheels Car Club — England, UK', position:'Data Science Intern', year:'May, 2024 - Sep, 2024'},
+        {name:'Finvestox Capital — Remote, India', position:'Software Engineer - Algorithmic Trading (Freelancing)', year:'Sep, 2022 - Apr, 2024'}
       ];
 
     return (

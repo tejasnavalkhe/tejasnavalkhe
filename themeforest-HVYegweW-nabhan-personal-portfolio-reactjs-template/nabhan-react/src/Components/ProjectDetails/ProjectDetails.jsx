@@ -70,37 +70,37 @@ const ProjectDetails = () => {
         result_image: '/assets/images/portfolio/portfolio_2_2.png',
         },
 
-        {
-        id: 3,
-        title: 'MATHABILITY LEVEL 1: A MATHEMATICS FOUNDATION COURSE',
-        subtitle: 'Book',
-        client_country: 'Maharashtra, India',
-        published: '10 February, 2024',
-        technology: 'Typesetting, Diagram Creation, Markdown',
-        categories: 'Kids Mathematics',
-        href: 'https://amzn.to/4as0Cpq',
-        image: '/assets/images/portfolio/portfolio_3_0.png',
-        overview: "This book is designed to strengthen the mathematical foundation of students by covering all essential mathematical concepts required for aspirants from classes 6 to 10. The content is structured into six levels (this book is the first level), each corresponding to different stages of learning, with topics broken down into smaller sub-topics for better comprehension. The book ensures that unnecessary material is excluded while including all necessary concepts, making it a comprehensive resource for students. It also provides a large number of practice examples in exercises to reinforce learning. The `Mathability` course, which the book is based on, is divided into six levels (this is the first level), catering to the syllabus of various educational boards and aiming to improve students' mathematical skills systematically.",
-        challenges: "Writing a book for the first time, especially one aimed at improving students' mathematical foundations, presents several challenges. The author must ensure that the content is comprehensive yet concise, covering all necessary topics without overwhelming the reader. Structuring the material into six levels and breaking down topics into sub-topics requires careful planning to maintain clarity and logical progression. Additionally, the author must align the content with the syllabi of multiple educational boards, which can vary significantly. Balancing theoretical explanations with practical examples and exercises is another challenge, as the book must cater to diverse learning needs. Finally, ensuring that the book is engaging and accessible to students of varying skill levels adds another layer of complexity.",
-        challenges_list: [
-            'Ensuring comprehensive coverage of all necessary mathematical concepts without including unnecessary material.',
-            'Structuring the content into six levels and breaking down topics into sub-topics for better understanding.',
-            'Aligning the book with the syllabi of different educational boards, which may have varying requirements.',
-            'Balancing theoretical explanations with practical examples and exercises to reinforce learning.',
-            'Making the book engaging and accessible to students with varying levels of mathematical proficiency.'
-        ],
-        overview_image: '/assets/images/portfolio/portfolio_3_1.png',
-        results: "The book successfully addresses the challenges faced by first-time authors and achieves its goal of improving students' mathematical foundations. By dividing the syllabus into six levels and breaking down topics into smaller sub-topics, the book ensures a clear and systematic learning progression. The inclusion of numerous practice examples in exercises helps students reinforce their understanding and apply concepts effectively. The book's alignment with the syllabi of various educational boards makes it a versatile resource for students across different regions. Overall, the book enhances students' mathematical abilities, providing them with a strong foundation for further studies.",
-        results_list: [
-            'Comprehensive Coverage: The book covers all essential mathematical concepts from classes 6 to 10, ensuring no necessary material is left out while avoiding unnecessary content.',
-            'Structured Learning: The content is divided into six levels, with topics broken down into smaller sub-topics, making it easier for students to understand and follow.',
-            'Alignment with Multiple Syllabi: The book aligns with the syllabi of various educational boards, making it a versatile resource for students across different regions.',
-            'Practical Examples and Exercises: A large number of examples and exercises are provided, helping students practice and reinforce their understanding of mathematical concepts.',
-            "Improved Mathematical Foundation: The book effectively strengthens students' mathematical skills, preparing them for higher-level studies and competitive exams.",
-            'Engaging and Accessible: The book is designed to be engaging and accessible to students with varying levels of mathematical proficiency, ensuring broad appeal and usability.'
-        ],
-        result_image: '/assets/images/portfolio/portfolio_3_2.png',
-        },
+        // {
+        // id: 3,
+        // title: 'MATHABILITY LEVEL 1: A MATHEMATICS FOUNDATION COURSE',
+        // subtitle: 'Book',
+        // client_country: 'Maharashtra, India',
+        // published: '10 February, 2024',
+        // technology: 'Typesetting, Diagram Creation, Markdown',
+        // categories: 'Kids Mathematics',
+        // href: 'https://amzn.to/4as0Cpq',
+        // image: '/assets/images/portfolio/portfolio_3_0.png',
+        // overview: "This book is designed to strengthen the mathematical foundation of students by covering all essential mathematical concepts required for aspirants from classes 6 to 10. The content is structured into six levels (this book is the first level), each corresponding to different stages of learning, with topics broken down into smaller sub-topics for better comprehension. The book ensures that unnecessary material is excluded while including all necessary concepts, making it a comprehensive resource for students. It also provides a large number of practice examples in exercises to reinforce learning. The `Mathability` course, which the book is based on, is divided into six levels (this is the first level), catering to the syllabus of various educational boards and aiming to improve students' mathematical skills systematically.",
+        // challenges: "Writing a book for the first time, especially one aimed at improving students' mathematical foundations, presents several challenges. The author must ensure that the content is comprehensive yet concise, covering all necessary topics without overwhelming the reader. Structuring the material into six levels and breaking down topics into sub-topics requires careful planning to maintain clarity and logical progression. Additionally, the author must align the content with the syllabi of multiple educational boards, which can vary significantly. Balancing theoretical explanations with practical examples and exercises is another challenge, as the book must cater to diverse learning needs. Finally, ensuring that the book is engaging and accessible to students of varying skill levels adds another layer of complexity.",
+        // challenges_list: [
+        //     'Ensuring comprehensive coverage of all necessary mathematical concepts without including unnecessary material.',
+        //     'Structuring the content into six levels and breaking down topics into sub-topics for better understanding.',
+        //     'Aligning the book with the syllabi of different educational boards, which may have varying requirements.',
+        //     'Balancing theoretical explanations with practical examples and exercises to reinforce learning.',
+        //     'Making the book engaging and accessible to students with varying levels of mathematical proficiency.'
+        // ],
+        // overview_image: '/assets/images/portfolio/portfolio_3_1.png',
+        // results: "The book successfully addresses the challenges faced by first-time authors and achieves its goal of improving students' mathematical foundations. By dividing the syllabus into six levels and breaking down topics into smaller sub-topics, the book ensures a clear and systematic learning progression. The inclusion of numerous practice examples in exercises helps students reinforce their understanding and apply concepts effectively. The book's alignment with the syllabi of various educational boards makes it a versatile resource for students across different regions. Overall, the book enhances students' mathematical abilities, providing them with a strong foundation for further studies.",
+        // results_list: [
+        //     'Comprehensive Coverage: The book covers all essential mathematical concepts from classes 6 to 10, ensuring no necessary material is left out while avoiding unnecessary content.',
+        //     'Structured Learning: The content is divided into six levels, with topics broken down into smaller sub-topics, making it easier for students to understand and follow.',
+        //     'Alignment with Multiple Syllabi: The book aligns with the syllabi of various educational boards, making it a versatile resource for students across different regions.',
+        //     'Practical Examples and Exercises: A large number of examples and exercises are provided, helping students practice and reinforce their understanding of mathematical concepts.',
+        //     "Improved Mathematical Foundation: The book effectively strengthens students' mathematical skills, preparing them for higher-level studies and competitive exams.",
+        //     'Engaging and Accessible: The book is designed to be engaging and accessible to students with varying levels of mathematical proficiency, ensuring broad appeal and usability.'
+        // ],
+        // result_image: '/assets/images/portfolio/portfolio_3_2.png',
+        // },
 
         {
         id: 4,

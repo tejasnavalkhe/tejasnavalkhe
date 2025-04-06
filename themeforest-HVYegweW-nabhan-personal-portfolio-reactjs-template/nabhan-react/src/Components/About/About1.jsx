@@ -22,7 +22,7 @@ const About1 = () => {
         {name:'Self Employed — Remote', position:'Freelance AI / ML Engineer', year:'Sep, 2024 - Present'},
         {name:'Co Wheels Car Club — England, UK', position:'Data Science Intern', year:'May, 2024 - Sep, 2024'},
         {name:'Finvestox Capital — Remote, India', position:'Freelance Software Engineer - Algorithmic Trading', year:'Sep, 2022 - Apr, 2024'},
-        {name:'Web Development Intern — Indore, India', position:'Vitaecura Consultancy Services', year:'Jul, 2022 - Sep, 2022'}
+        {name:'Vitaecura Consultancy Services — Indore, India', position:'Web Development Intern', year:'Jul, 2022 - Sep, 2022'}
       ];      
 
     return (

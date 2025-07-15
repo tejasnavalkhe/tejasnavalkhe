@@ -1,7 +1,7 @@
 
 const Skill2 = () => {
 
-    const resume_link = "/assets/files/Tejas Navalkhe AI Engineer.pdf"
+    const resume_link = "/assets/files/Tejas Navalkhe.pdf"
 
     const skilltContent = [
         {img:'/assets/images/skill/python.png', skillnumber:'89', skillname:'Python'},

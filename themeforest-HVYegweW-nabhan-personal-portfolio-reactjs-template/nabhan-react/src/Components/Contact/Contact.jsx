@@ -32,7 +32,7 @@ const Contact = () => {
                                 <div className="feature-box-details">
                                     <h5 className="feature-box-title">Email</h5>
                                     <div className="feature-box-text">
-                                        <a href="mailto:contact@tejasnavalkhe.com">contact@tejasnavalkhe.com</a>
+                                        <a href="mailto:tejas@tejasnavalkhe.com">tejas@tejasnavalkhe.com</a>
                                     </div>
                                 </div>
                             </div>
@@ -59,7 +59,7 @@ const Contact = () => {
                         <div className="col-lg-12">
                             <div className="comment-respond">
                                 <h2 className="comment-title font2">Let's Connect!</h2>
-                                <form action="https://formspree.io/f/xgvozrog" method="post" className="comment-form">
+                                <form action="https://formspree.io/f/xvgrenzr" method="post" className="comment-form">
                                     <div className="row gx-20">
                                         <div className="col-md-6">
                                             <div className="form-group">

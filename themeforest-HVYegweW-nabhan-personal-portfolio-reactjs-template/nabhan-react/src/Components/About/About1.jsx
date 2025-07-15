@@ -8,13 +8,13 @@ const About1 = () => {
 
     const AboutContent = [
         {title:'Born In', text:'Maharashtra, India'},
-        {title:'Experience', text:'3+ Years Experience'},
+        {title:'Experience', text:'2.5+ Years Experience'},
         {title:'Date of Birth', text:'18 October, 2001'},
         {title:'Language', text:'English, Hindi, Marathi'}
       ];
 
       const experienceInfo = {
-        number:'3',
+        number:'2.5',
         content:'Years of Experiences AI/ML, Algorithmic Trading Systems, NLP, Deep Learning, Generative AI, Software Engineering'
       }
 

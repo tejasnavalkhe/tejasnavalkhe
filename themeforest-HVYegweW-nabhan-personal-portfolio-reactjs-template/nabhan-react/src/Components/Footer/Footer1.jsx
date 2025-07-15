@@ -13,10 +13,10 @@ const Footer1 = () => {
                     </div>
                     <div className="col-xl-12">
                         <div className="contact-mail">
-                            <a href="mailto:contact@tejasnavalkhe.com" className="bg-black2">
+                            <a href="mailto:tejas@tejasnavalkhe.com" className="bg-black2">
                                 <span className="link-effect">
-                                    <span className="effect-1">contact@tejasnavalkhe.com</span>
-                                    <span className="effect-1">contact@tejasnavalkhe.com</span>
+                                    <span className="effect-1">tejas@tejasnavalkhe.com</span>
+                                    <span className="effect-1">tejas@tejasnavalkhe.com</span>
                                 </span>
                                 <img src="/assets/images/icons/arrow-left-top.svg" alt="icon" />
                             </a>
@@ -27,7 +27,7 @@ const Footer1 = () => {
                     <div className="row gx-60 lg-gx-30">
                        <div className="col-xl-6 col-lg-6 col-md-6">
                           <div className="contact-btn mb-30 text-center ">
-                             <a className="btn-black" href="mailto:contact@tejasnavalkhe.com?subject=Let's%20Connect%20and%20Discuss%20Further">
+                             <a className="btn-black" href="mailto:tejas@tejasnavalkhe.com?subject=Let's%20Connect%20and%20Discuss%20Further">
                                 <span className="link-effect">
                                     <span className="effect-1">Write a Message</span>
                                     <span className="effect-1">Write a Message</span>
@@ -37,7 +37,7 @@ const Footer1 = () => {
                        </div>
                        <div className="col-xl-6 col-lg-6 col-md-6">
                           <div className="contact-btn text-center ">
-                             <a className="btn-black" href="mailto:contact@tejasnavalkhe.com?subject=Let's%20Plan%20the%20Project%20Together">
+                             <a className="btn-black" href="mailto:tejas@tejasnavalkhe.com?subject=Let's%20Plan%20the%20Project%20Together">
                                 <span className="link-effect">
                                     <span className="effect-1">Discuss Project</span>
                                     <span className="effect-1">Discuss Project</span>

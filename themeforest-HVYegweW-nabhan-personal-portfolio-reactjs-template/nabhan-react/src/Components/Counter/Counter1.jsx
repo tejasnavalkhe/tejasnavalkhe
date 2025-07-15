@@ -4,7 +4,7 @@ const Counter1 = () => {
       const counterContent = [
         {number:'25', position:'Projects Completed'},
         {number:'19%', position:'Revenue Growth Achieved for Clients'},
-        {number:'3', position:'Years of Experience'},
+        {number:'2.5', position:'Years of Experience'},
         {number:'23%', position:'Reduction in Monthly Operational Costs'},
       ];
 

@@ -11,7 +11,7 @@ const Footer2 = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <h1 className="contact-title wow text-anim-left mb-25 mt--10">Got a project in mind?</h1>
-                        <h1 className="contact-title title-font2 text-lg-end wow text-anim-right mb-0"><a href="mailto:contact@tejasnavalkhe.com">contact@tejasnavalkhe.com</a></h1>
+                        <h1 className="contact-title title-font2 text-lg-end wow text-anim-right mb-0"><a href="mailto:tejas@tejasnavalkhe.com">tejas@tejasnavalkhe.com</a></h1>
                     </div>
                 </div>
                 <div className="row position-relative mt-60 mb-40 md-mb-50">

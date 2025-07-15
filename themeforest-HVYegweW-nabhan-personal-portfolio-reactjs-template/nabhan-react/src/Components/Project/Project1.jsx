@@ -12,7 +12,7 @@ const Project1 = () => {
     return (
         <div className="portfolio-area style-two space">
                 <div className="big-title-wrap text-center mt--20">
-                    <h2 className="big-title mb-0" data-count="[ 4 ]">WORKS</h2>
+                    <h2 className="big-title mb-0" data-count="[ 3 ]">WORKS</h2>
                 </div>
                 <div className="container">
                     <div className="row gx-120 lg-gx-60 md-gx-40 gy-120 lg-gy-60 md-gy-40  justify-content-between">

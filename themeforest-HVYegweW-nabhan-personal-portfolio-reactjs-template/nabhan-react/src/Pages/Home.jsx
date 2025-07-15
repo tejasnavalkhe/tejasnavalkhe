@@ -13,8 +13,8 @@ const Home = () => {
         <div>
             <HeroBanner1
                 number="+91 7264800601"
-                email="contact@tejasnavalkhe.com"
-                expnum="3"
+                email="tejas@tejasnavalkhe.com"
+                expnum="2.5"
                 expcontent="YEARS OF <br> EXPERIENCE"
                 title1="Hi there!"
                 title2="I'm Tejas Satish Navalkhe"
@@ -22,7 +22,7 @@ const Home = () => {
                 title4="BASED IN LONDON"
                 title5="Engineer"
                 btnname="Download Resume"
-                btnurl="/assets/files/Tejas Navalkhe AI Engineer.pdf"
+                btnurl="/assets/files/Tejas Navalkhe.pdf"
             ></HeroBanner1>
             <About1></About1>
             <Marquee></Marquee>

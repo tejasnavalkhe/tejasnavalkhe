@@ -12,7 +12,7 @@ def new_subscription(email):
 	You'll be among the first to receive updates, insights, and exclusive announcements as things progress. Stay tuned—there's a lot to look forward to! 
 	Stay tuned for more details—exciting things are on the horizon!
 
-	In the meantime, feel free to connect with me or share any thoughts at contact@tejasnavalkhe.com.
+	In the meantime, feel free to connect with me or share any thoughts at tejas@tejasnavalkhe.com.
 
 	Thank you once again for your interest and support!
 

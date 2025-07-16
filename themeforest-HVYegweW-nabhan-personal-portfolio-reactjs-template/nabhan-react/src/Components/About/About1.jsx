@@ -8,9 +8,9 @@ const About1 = () => {
 
     const AboutContent = [
         {title:'Born In', text:'Maharashtra, India'},
-        {title:'Experience', text:'2.5+ Years Experience'},
         {title:'Date of Birth', text:'18 October, 2001'},
-        {title:'Language', text:'English, Hindi, Marathi'}
+        {title:'Language', text:'English, Hindi, Marathi'},
+        {title:'Total Flight Hours', text:'67+ Hours (Airtime Only)'}
       ];
 
       const experienceInfo = {

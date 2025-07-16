@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const About1 = () => {
 
     const AboutInfoText = {
-        Content:'Innovative AI/ML Engineer skilled in deep learning, NLP, reinforcement learning, and generative AI. Expertise in model development, MLOps, real-time data pipelines, algorithmic trading, dynamic pricing, and automated ETL. Proficient in big data and cloud platforms, passion for solving complex problems through AI-driven solutions.'
+        Content:'Skilled in NLP, reinforcement learning, real-time data pipelines, and generative AI. Experienced in model development, big data, cloud, and algorithmic systems like trading and pricing. Driven by solving real-world problems with AI.'
       }
 
     const AboutContent = [

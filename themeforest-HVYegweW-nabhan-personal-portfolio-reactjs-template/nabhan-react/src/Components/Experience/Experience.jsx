@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 const Experience = () => {
 
     const experiencetContent = [
-        {name:'Self Employed — Remote', position:'Freelance AI / ML Engineer', year:'Sep, 2024 - Present'},
-        {name:'Co Wheels Car Club — England, UK', position:'Data Science Intern', year:'May, 2024 - Sep, 2024'},
-        {name:'Finvestox Capital — Remote, India', position:'Freelance Software Engineer - Algorithmic Trading', year:'Sep, 2022 - Apr, 2024'},
-        {name:'Vitaecura Consultancy Services — Indore, India', position:'Web Development Intern', year:'Jul, 2022 - Sep, 2022'}
+        {name:'Self Employed — Remote', position:'Freelance AI / ML Engineer', year:'23 Sep, 2024 - 18 June, 2025'},
+        {name:'Co Wheels Car Club — England, UK', position:'Data Science Intern', year:'01 May, 2024 - 09 Sep, 2024'},
+        {name:'Finvestox Capital — Remote, India', position:'Freelance Software Engineer', year:'21 Sep, 2022 - 09 Apr, 2024'},
+        {name:'Vitaecura Consultancy Services — Indore, India', position:'Web Development Intern', year:'07 Jul, 2022 - 10 Sep, 2022'}
       ];
 
     return (

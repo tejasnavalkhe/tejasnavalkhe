@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 const Experience2 = () => {
 
     const experiencetContent = [
+        {name:'Jalgaon Janata Sahakari Bank — Jalgaon', position:'Deputy Manager Technology', year:'12 Aug, 2025 - Present'},
         {name:'Self Employed — Remote', position:'Freelance AI / ML Engineer', year:'23 Sep, 2024 - 18 June, 2025'},
         {name:'Co Wheels Car Club — England, UK', position:'Data Science Intern', year:'01 May, 2024 - 09 Sep, 2024'},
         {name:'Finvestox Capital — Remote, India', position:'Freelance Software Engineer', year:'21 Sep, 2022 - 09 Apr, 2024'},

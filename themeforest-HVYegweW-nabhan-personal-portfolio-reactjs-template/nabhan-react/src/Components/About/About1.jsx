@@ -19,11 +19,12 @@ const About1 = () => {
       }
 
       const experiencetContent = [
+        {name:'Jalgaon Janata Sahakari Bank Limited — Jalgaon', position:'Deputy Manager Technology', year:'12 Aug, 2025 - Present'},
         {name:'Self Employed — Remote', position:'Freelance AI / ML Engineer', year:'23 Sep, 2024 - 18 June, 2025'},
         {name:'Co Wheels Car Club — England, UK', position:'Data Science Intern', year:'01 May, 2024 - 09 Sep, 2024'},
         {name:'Finvestox Capital — Remote, India', position:'Freelance Software Engineer', year:'21 Sep, 2022 - 09 Apr, 2024'},
         {name:'Vitaecura Consultancy Services — Indore, India', position:'Web Development Intern', year:'07 Jul, 2022 - 10 Sep, 2022'}
-      ];      
+      ];
 
     return (
         <section className="about-area style-two space bg-theme2">

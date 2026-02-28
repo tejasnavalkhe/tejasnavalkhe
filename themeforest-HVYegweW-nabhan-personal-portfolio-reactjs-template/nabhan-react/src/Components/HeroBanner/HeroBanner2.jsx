@@ -3,16 +3,16 @@ const HeroBanner2 = () => {
 
 
     const heroContent = {
-        number:'+91 0369 201 003',
-        title1:'Hi there!',
-        title2:'I am',
-        title:'STEVEN NABHAN',
-        title3:'hellowcontacts@gmail.com',
-        img:'/assets/images/hero/hero-img.png',
-        content:'I’m a Product designer and creative web developer with a passion for solving problems through simple and interactive designs.',
-        title5:'UI/UX DESIGNER',
-        title6:'Based in London',
-      }
+        number: '+91 0369 201 003',
+        title1: 'Hi there!',
+        title2: 'I am',
+        title: 'STEVEN NABHAN',
+        title3: 'hellowcontacts@gmail.com',
+        img: '/assets/images/hero/hero-img.png',
+        content: 'I’m a Product designer and creative web developer with a passion for solving problems through simple and interactive designs.',
+        title5: 'UI/UX DESIGNER',
+        title6: 'Based in Navi Mumbai',
+    }
 
     return (
         <section className="hero-wrapper hero-1" id="hero">
@@ -38,28 +38,28 @@ const HeroBanner2 = () => {
                     <div className="parallax-wrap">
                         <div className="parallax-element">
                             <a className="facebook" href="#">
-                            <i className="bi bi-facebook"></i>
+                                <i className="bi bi-facebook"></i>
                             </a>
                         </div>
                     </div>
                     <div className="parallax-wrap">
                         <div className="parallax-element">
                             <a className="twitter" href="#">
-                            <i className="bi bi-twitter"></i>
+                                <i className="bi bi-twitter"></i>
                             </a>
                         </div>
                     </div>
                     <div className="parallax-wrap">
                         <div className="parallax-element">
                             <a className="instagram" href="#">
-                            <i className="bi bi-instagram"></i>
+                                <i className="bi bi-instagram"></i>
                             </a>
                         </div>
                     </div>
                     <div className="parallax-wrap">
                         <div className="parallax-element">
                             <a className="dribbble" href="#">
-                            <i className="bi bi-linkedin"></i>
+                                <i className="bi bi-linkedin"></i>
                             </a>
                         </div>
                     </div>
@@ -84,7 +84,7 @@ const HeroBanner2 = () => {
                                 </div>
                                 <div className="col-lg-4">
                                     <p className="hero-text wow img-custom-anim-right" data-wow-delay="0.1s" data-wow-duration="1.5s">
-                                    {heroContent.content}
+                                        {heroContent.content}
                                     </p>
                                 </div>
                             </div>

@@ -19,7 +19,7 @@ const Home = () => {
                 title1="Hi there!"
                 title2="I'm Tejas Satish Navalkhe"
                 title3="AI / ML"
-                title4="BASED IN LONDON"
+                title4="BASED IN NAVI MUMBAI"
                 title5="Engineer"
                 btnname="Download Resume"
                 btnurl="/assets/files/Tejas Navalkhe.pdf"
@@ -27,12 +27,12 @@ const Home = () => {
             <About1></About1>
             <Marquee></Marquee>
             <Project1></Project1>
-            
+
             {/* <Services1></Services1> */}
             {/* <Pricing></Pricing> */}
             {/* <Testimonial></Testimonial> */}
             {/* <Blog1></Blog1> */}
-            
+
         </div>
     );
 };

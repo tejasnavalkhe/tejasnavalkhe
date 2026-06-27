@@ -7,7 +7,7 @@
 
 - 🌱 I’m into **Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing and Data Engineering**
 
-- 👯 I want to collaborate on **Finance / FinTech, Healthcare, Education / EdTech, Retail / E-commerce, Automotive / Transportation** Industries for Machine Learning, Deep Learning, Data Engineering and Web Development fields.
+- 👯 I want to collaborate on **Finance / FinTech, Education / EdTech, and Automotive / Transportation** Industries for Machine Learning, Deep Learning, Data Engineering and Web Development fields.
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Python, Full Stack Web Development, Algorithmic Trading, Deployment, API, Data Engineering**
 

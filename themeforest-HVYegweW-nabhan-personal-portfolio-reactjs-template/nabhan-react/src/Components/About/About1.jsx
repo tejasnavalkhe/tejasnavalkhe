@@ -3,92 +3,91 @@ import { Link } from "react-router-dom";
 const About1 = () => {
 
     const AboutInfoText = {
-        Content:'Skilled in NLP, reinforcement learning, real-time data pipelines, and generative AI. Experienced in model development, big data, cloud, and algorithmic systems like trading and pricing. Driven by solving real-world problems with AI.'
-      }
+        Content: 'Skilled in NLP, reinforcement learning, real-time data pipelines, and generative AI. Experienced in model development, big data, cloud, and algorithmic systems like trading and pricing. Driven by solving real-world problems with AI.'
+    }
 
     const AboutContent = [
-        {title:'Born In', text:'Maharashtra, India'},
-        {title:'Date of Birth', text:'18 October, 2001'},
-        {title:'Language', text:'English, Hindi, Marathi'},
-        {title:'Total Flight Hours', text:'67+ Hours (Airtime Only)'}
-      ];
+        { title: 'Born In', text: 'Maharashtra, India' },
+        { title: 'Date of Birth', text: '18 October, 2001' },
+        { title: 'Language', text: 'English, Hindi, Marathi' },
+        { title: 'Total Flight Hours', text: '67+ Hours (Airtime Only)' }
+    ];
 
-      const experienceInfo = {
-        number:'3.5',
-        content:'Years of Experiences AI/ML, Algorithmic Trading Systems, NLP, Deep Learning, Generative AI, Software Engineering'
-      }
+    const experienceInfo = {
+        number: '3.5',
+        content: 'Years of Experiences AI/ML, Algorithmic Trading Systems, NLP, Deep Learning, Generative AI, Software Engineering'
+    }
 
-      const experiencetContent = [
-        {name:'Jalgaon Janata Sahakari Bank Limited — Jalgaon', position:'Deputy Manager Technology', year:'12 Aug, 2025 - Present'},
-        {name:'Self Employed — Remote', position:'Freelance AI / ML Engineer', year:'23 Sep, 2024 - 18 June, 2025'},
-        {name:'Co Wheels Car Club — England, UK', position:'Data Science Intern', year:'01 May, 2024 - 09 Sep, 2024'},
-        {name:'Finvestox Capital — Remote, India', position:'Freelance Software Engineer', year:'21 Sep, 2022 - 09 Apr, 2024'},
-        {name:'Vitaecura Consultancy Services — Indore, India', position:'Web Development Intern', year:'07 Jul, 2022 - 10 Sep, 2022'}
-      ];
+    const experiencetContent = [
+        { name: 'Jalgaon Janata Sahakari Bank Limited — Jalgaon', position: 'Deputy Manager Technology', year: '12 Aug, 2025 - Present' },
+        { name: 'Co Wheels Car Club — England, UK', position: 'Data Science Intern', year: '01 May, 2024 - 09 Sep, 2024' },
+        { name: 'Finvestox Capital — Remote, India', position: 'Freelance Software Engineer', year: '21 Sep, 2022 - 09 Apr, 2024' },
+        { name: 'Vitaecura Consultancy Services — Indore, India', position: 'Web Development Intern', year: '07 Jul, 2022 - 10 Sep, 2022' }
+    ];
 
     return (
         <section className="about-area style-two space bg-theme2">
-        <div className="container">
-            <div className="row position-relative">
-                <div className="col-lg-12">
-                    <h3 className="title-info_text mt--10">{AboutInfoText.Content}</h3>
-                </div>
-                <div className="col-lg-12">
-                    <div className="contact-btn_wrapper mt-60 mb-60">
-                        <div className="contact-btn btn-bounce-1 text-lg-end pr-120 home-circle-btn">
-                            <Link className="circle-btn btn gsap-magnetic" to="/about">
-                                <span className="link-effect">
-                                    <span className="effect-1">About Me</span>
-                                    <span className="effect-1">About Me</span>
-                                </span>
-                                <img src="/assets/images/icons/arrow-left-top.svg" alt="" />
-                            </Link>
-                        </div>
-                        <span className="contact-inner-border"></span>
+            <div className="container">
+                <div className="row position-relative">
+                    <div className="col-lg-12">
+                        <h3 className="title-info_text mt--10">{AboutInfoText.Content}</h3>
                     </div>
-                </div>
-            </div>
-            <div className="row space-bottom gy-30">
-            {AboutContent.map((item, i) => (
-                <div key={i} className="col-lg-3 col-md-6">
-                    <div className="about-info-box">
-                        <div className="inner">
-                            <span className="title">{item.title}</span>
-                            <p className="text">{item.text}</p>
+                    <div className="col-lg-12">
+                        <div className="contact-btn_wrapper mt-60 mb-60">
+                            <div className="contact-btn btn-bounce-1 text-lg-end pr-120 home-circle-btn">
+                                <Link className="circle-btn btn gsap-magnetic" to="/about">
+                                    <span className="link-effect">
+                                        <span className="effect-1">About Me</span>
+                                        <span className="effect-1">About Me</span>
+                                    </span>
+                                    <img src="/assets/images/icons/arrow-left-top.svg" alt="" />
+                                </Link>
+                            </div>
+                            <span className="contact-inner-border"></span>
                         </div>
                     </div>
                 </div>
-                ))}
-            </div>
-            <div className="row">
-                <div className="col-lg-5">
-                    <div className="about-experience-wrapper md-mt--25">
-                        <div className="inner">
-                            <h2 className="year"><span className="count-number">{experienceInfo.number}</span>+</h2>
-                            <p className="text">{experienceInfo.content}</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-lg-7">
-                    <div className="experience-wrapper">
-                        <h4 className="title">Experience</h4>
-                        <ul className="experience-wrap-area style-2">
-                        {experiencetContent.map((item, i) => (
-                            <li key={i} className="single-experience-list">
-                                <div className="left">
-                                    <span className="experience-place">{item.name}</span>
-                                    <span className="experience-tag">{item.position}</span>
+                <div className="row space-bottom gy-30">
+                    {AboutContent.map((item, i) => (
+                        <div key={i} className="col-lg-3 col-md-6">
+                            <div className="about-info-box">
+                                <div className="inner">
+                                    <span className="title">{item.title}</span>
+                                    <p className="text">{item.text}</p>
                                 </div>
-                                <span className="experience-year">{item.year}</span>
-                            </li>
-                            ))}
+                            </div>
+                        </div>
+                    ))}
+                </div>
+                <div className="row">
+                    <div className="col-lg-5">
+                        <div className="about-experience-wrapper md-mt--25">
+                            <div className="inner">
+                                <h2 className="year"><span className="count-number">{experienceInfo.number}</span>+</h2>
+                                <p className="text">{experienceInfo.content}</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-7">
+                        <div className="experience-wrapper">
+                            <h4 className="title">Experience</h4>
+                            <ul className="experience-wrap-area style-2">
+                                {experiencetContent.map((item, i) => (
+                                    <li key={i} className="single-experience-list">
+                                        <div className="left">
+                                            <span className="experience-place">{item.name}</span>
+                                            <span className="experience-tag">{item.position}</span>
+                                        </div>
+                                        <span className="experience-year">{item.year}</span>
+                                    </li>
+                                ))}
 
-                        </ul>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
     );
 };
 

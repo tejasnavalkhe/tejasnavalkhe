@@ -3,12 +3,11 @@ import { Link } from "react-router-dom";
 const Experience = () => {
 
     const experiencetContent = [
-        {name:'Jalgaon Janata Sahakari Bank — Jalgaon', position:'Deputy Manager Technology', year:'12 Aug, 2025 - Present'},
-        {name:'Self Employed — Remote', position:'Freelance AI / ML Engineer', year:'23 Sep, 2024 - 18 June, 2025'},
-        {name:'Co Wheels Car Club — England, UK', position:'Data Science Intern', year:'01 May, 2024 - 09 Sep, 2024'},
-        {name:'Finvestox Capital — Remote, India', position:'Freelance Software Engineer', year:'21 Sep, 2022 - 09 Apr, 2024'},
-        {name:'Vitaecura Consultancy Services — Indore, India', position:'Web Development Intern', year:'07 Jul, 2022 - 10 Sep, 2022'}
-      ];
+        { name: 'Jalgaon Janata Sahakari Bank — Jalgaon', position: 'Deputy Manager Technology', year: '12 Aug, 2025 - Present' },
+        { name: 'Co Wheels Car Club — England, UK', position: 'Data Science Intern', year: '01 May, 2024 - 09 Sep, 2024' },
+        { name: 'Finvestox Capital — Remote, India', position: 'Freelance Software Engineer', year: '21 Sep, 2022 - 09 Apr, 2024' },
+        { name: 'Vitaecura Consultancy Services — Indore, India', position: 'Web Development Intern', year: '07 Jul, 2022 - 10 Sep, 2022' }
+    ];
 
     return (
         <section className="experience-area space bg-theme2 overflow-hidden">
@@ -32,13 +31,13 @@ const Experience = () => {
                 <div className="row justify-content-center">
                     <div className="col-lg-12">
                         <ul className="experience-wrap-area">
-                        {experiencetContent.map((item, i) => (
-                            <li key={i} className="single-experience-list">
-                                <span className="experience-place">{item.name}</span>
-                                <span className="experience-tag">{item.position}</span>
-                                <span className="experience-year">{item.year}</span>
-                            </li>
-                        ))}
+                            {experiencetContent.map((item, i) => (
+                                <li key={i} className="single-experience-list">
+                                    <span className="experience-place">{item.name}</span>
+                                    <span className="experience-tag">{item.position}</span>
+                                    <span className="experience-year">{item.year}</span>
+                                </li>
+                            ))}
 
                         </ul>
                     </div>

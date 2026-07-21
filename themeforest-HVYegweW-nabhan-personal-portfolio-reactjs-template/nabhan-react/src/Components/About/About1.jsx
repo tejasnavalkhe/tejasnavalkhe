@@ -14,7 +14,7 @@ const About1 = () => {
     ];
 
     const experienceInfo = {
-        number: '3.5',
+        number: '3',
         content: 'Years of Experiences AI/ML, Algorithmic Trading Systems, NLP, Deep Learning, Generative AI, Software Engineering'
     }
 

@@ -11,7 +11,7 @@ const HeroBanner2 = () => {
         img: '/assets/images/hero/hero-img.png',
         content: 'I’m a Product designer and creative web developer with a passion for solving problems through simple and interactive designs.',
         title5: 'UI/UX DESIGNER',
-        title6: 'Based in Navi Mumbai',
+        title6: 'Based in Hyderabad',
     }
 
     return (

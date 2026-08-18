@@ -5,7 +5,7 @@ const About2 = () => {
     const aboutContent = {
         title1: "I'm an",
         title2: 'AI / ML Engineer',
-        title3: '& Software Engineer based in Navi Mumbai.',
+        title3: '& Software Engineer based in Hyderabad.',
         content: 'I excel at designing and implementing <span className="font2">AI-driven solutions</span> in the development environment, leveraging tools like <span className="font2">Python, PyTorch, and TensorFlow</span>. I specialise in creating <span className="font2">scalable, efficient, and innovative systems</span> that solve complex problems and deliver measurable business impact.',
         btnname: 'Explore More',
         btnurl: '/project',

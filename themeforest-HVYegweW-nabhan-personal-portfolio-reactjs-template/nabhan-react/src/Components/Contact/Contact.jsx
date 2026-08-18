@@ -44,7 +44,7 @@ const Contact = () => {
                                 </div>
                                 <div className="feature-box-details">
                                     <h5 className="feature-box-title">Address</h5>
-                                    <div className="feature-box-text">Navi Mumbai, Maharashtra, <br /> 400701</div>
+                                    <div className="feature-box-text">Hyderabad, Telangana, <br /> 500081</div>
                                 </div>
                             </div>
                         </div>
@@ -102,7 +102,7 @@ const Contact = () => {
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="contact-map mt-60">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89829.2472765969!2d72.92667404104087!3d19.175796247599894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7bf523dd8b5ab%3A0x9de9a7f73961da61!2sAiroli%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1772261458909!5m2!1sen!2sin" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30449.877648095793!2d78.37104609381439!3d17.448476931884358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9158f201b205%3A0x11bbe7be7792411b!2sMadhapur%2C%20Hyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1787027511919!5m2!1sen!2sin%22%20width=%22600%22%20height=%22450%22%20style=%22border:0;%22%20allowfullscreen=%22%22%20loading=%22lazy%22%20referrerpolicy=%22strict-origin-when-cross-origin" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
                     </div>
